@@ -1,6 +1,18 @@
 /** @type {Person[]} */
 export default [
   {
+    name: "Farid Nugraha",
+    status: "Freelance",
+    role: "Frontend Developer, ",
+    location: "Tambun, Bekasi",
+    social_media: {
+      Linkedin: "https://www.linkedin.com/in/faridnugraha",
+      Github: "https://github.com/ionivetech",
+    },
+    tech_stack: ["VueJS", "NuxtJS", "Javascript", "Typescript", "Tailwind CSS"],
+    hired: false,
+  },
+  {
     name: "Nurizko Maulana",
     status: "Fulltime, Remote",
     role: "Software Engineer, ",
